@@ -133,7 +133,7 @@
 		"jsdom-global": "3.0.2",
 		"mocha": "8.2.1",
 		"moment": "2.29.1",
-		"nock": "13.0.7",
+		"nock": "13.0.11",
 		"parse-diff": "0.8.1",
 		"prettier": "npm:wp-prettier@2.0.5",
 		"sinon": "9.2.4",
